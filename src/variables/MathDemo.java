@@ -1,4 +1,4 @@
-package JavaBasic.types.variables;
+package variables;
 
 public class MathDemo {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package JavaBasic.types.variables;
+package variables;
 
 public class EscapeSequencesDemo {
     public static void main(String[] args) {

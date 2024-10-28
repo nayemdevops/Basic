@@ -1,4 +1,4 @@
-package JavaBasic.types.variables;
+package variables;
 
 public class ArithmeticExpressionDemo {
     public static void main(String[] args) {

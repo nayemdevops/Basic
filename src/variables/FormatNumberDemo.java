@@ -1,4 +1,4 @@
-package JavaBasic.types.variables;
+package variables;
 
 import java.text.NumberFormat;
 

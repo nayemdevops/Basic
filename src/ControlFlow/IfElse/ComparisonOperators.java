@@ -1,4 +1,4 @@
-package JavaBasic.types.ControlFlow.IfElse;
+package ControlFlow.IfElse;
 
 public class ComparisonOperators {
     public static void main(String[] args) {
